@@ -1,0 +1,9 @@
+{
+  "api_url": "https://tonpayment.site:3069",
+  "server_list_url": "https://tonpayment.site:3069/listtonilapp/list.json",
+  "update_url": "https://tonpayment.site:3069/listtonilapp/app_version.json",
+  "news_url": "https://tonpayment.site:3069/listtonilapp/news.json",
+  "user_stats_url": "https://tonpayment.site:3069/api/user/legacy/user_stats",
+  "iranian_apps_url": "assets/iranian_apps.json",
+  "iranian_ips_url": "https://www-public.telecom-sudparis.eu/~maigron/rir-stats/rir-delegations/ip-lists/ipv4/ir-ipv4-list.txt"
+}
