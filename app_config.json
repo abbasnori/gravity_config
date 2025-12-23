@@ -5,8 +5,7 @@
   "news_url": "https://hk.tonpayment.site:3069/listtonilapp/news.json",
   "user_stats_url": "https://hk.tonpayment.site:3069/api/user/legacy/user_stats",
   "iranian_apps_url": "assets/iranian_apps.json",
-  "iranian_ips_url": "https://www-public.telecom-sudparis.eu/~maigron/rir-stats/rir-delegations/ip-lists/ipv4/ir-ipv4-list.txt"
-  
+  "iranian_ips_url": "https://www-public.telecom-sudparis.eu/~maigron/rir-stats/rir-delegations/ip-lists/ipv4/ir-ipv4-list.txt",
   "free_server_ad_url": "https://karkarde.kalale.ir/uploads/1764275397011-photo_2025-11-24_16-11-02.jpg",
-  "free_server_ad_link": "LINK_TO_TELEGRAM_OR_SITE"
+  "free_server_ad_link": "https://t.me/YourChannelID"
 }
